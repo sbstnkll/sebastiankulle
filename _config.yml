@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Germany"
-  employer         : "Fraunhofer FFB"
+  employer         : "Fraunhofer-Gesellschaft"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-4764-6911"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Sebastian-Kulle"
   scopus           : # URL
 
