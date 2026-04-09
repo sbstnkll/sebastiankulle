@@ -17,8 +17,8 @@ Education
 Work experience
 ======
 * 10/2025: Research Associate
-  * Fraunhofer FFB
-  * Digital Factory Design, Building Information Modeling, Digital Twins
+  * Fraunhofer
+  * Digital Twins
 
 
 * 05/2023 - 09/2025: Senior Product Manager
